@@ -102,7 +102,7 @@ ext {
             robolectric       : 'org.robolectric:robolectric:4.9',
             androidx_test_core: 'androidx.test:core:1.5.0',
             androidx_junit    : 'androidx.test.ext:junit:1.1.4',
-            androidx_espresso : 'androidx.test.espresso:espresso-core:3.5.0',
+            androidx_espresso : 'androidx.test.espresso:espresso-core:3.5.1',
             mockito_kotlin    : 'org.mockito.kotlin:mockito-kotlin:4.1.0'
     ]
 }
