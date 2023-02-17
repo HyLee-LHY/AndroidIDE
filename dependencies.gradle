@@ -73,7 +73,7 @@ ext {
             auto_service_annotations: 'com.google.auto.service:auto-service-annotations:1.0.1',
             auto_service            : 'com.google.auto.service:auto-service:1.0.1',
             oss_licenses            : 'com.google.android.gms:play-services-oss-licenses:17.0.0',
-            protobuf                : 'com.google.protobuf:protobuf-java:3.10.0'
+            protobuf                : 'com.google.protobuf:protobuf-java:3.22.0'
     ]
     
     aapt = [
