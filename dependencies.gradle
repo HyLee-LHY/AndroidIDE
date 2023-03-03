@@ -5,7 +5,7 @@ ext {
     oss_licenses_version = '0.10.6'
     nav_safeargs_version = '2.5.3'
     
-    ats_version = '1.0.9'
+    ats_version = '1.4.2'
     editor_version = '0.20.1'
     
     classpaths = [
